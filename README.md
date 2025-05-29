@@ -3,7 +3,7 @@
 A simple context-aware chatbot using Google Gemini's Free API (gemini-1.5-flash). It supports multi-turn conversations and preserves context across turns.
 
 
-## 🧠 What it does
+##  What it does
 
 - Prompts the user for input via the console
 - Sends user input to Gemini and gets a response
@@ -11,7 +11,7 @@ A simple context-aware chatbot using Google Gemini's Free API (gemini-1.5-flash)
 - Allows configuring temperature (response creativity)
 
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone this repository
 
@@ -36,6 +36,6 @@ python gemini_chat.py
 * Adjustable `temperature` for creativity
 * Simple command-line interaction
 
-## 📄 License
+##  License
 
 MIT License
